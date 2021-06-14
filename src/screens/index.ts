@@ -1,0 +1,13 @@
+export { Login as LoginScreen } from './Login';
+export { Home as HomeScreen } from './Home';
+export { ClientsRegister as ClientsRegisterScreen } from './ClientsRegister';
+export { UserRegistry as UserRegistryScreen } from './UserRegistry';
+export { User as UserScreen } from './User';
+export { SpecialistRegistry as SpecialistRegistryScreen } from './SpecialistRegistry';
+export { Specialist as SpecialistScreen } from './Specialist';
+export { MedRecordCreate as MedRecordCreateScreen } from './MedRecordCreate';
+export { MedRecordHistory as MedRecordHistoryScreen } from './MedRecordHistory';
+export { NotFound as NotFoundScreen } from './NotFound';
+export { Clients as ClientScreen } from './Clients';
+export { Services as ServicesScreen } from './Services';
+export { ServiceRegistry as ServiceRegistryScreen } from './ServiceRegistry';

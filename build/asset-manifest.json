@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6a81ab52.chunk.js",
+    "main.js.map": "/static/js/main.6a81ab52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3244a005.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3244a005.js.map",
+    "static/css/2.c7c62aa4.chunk.css": "/static/css/2.c7c62aa4.chunk.css",
+    "static/js/2.cdd656a1.chunk.js": "/static/js/2.cdd656a1.chunk.js",
+    "static/js/2.cdd656a1.chunk.js.map": "/static/js/2.cdd656a1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c7c62aa4.chunk.css.map": "/static/css/2.c7c62aa4.chunk.css.map",
+    "static/js/2.cdd656a1.chunk.js.LICENSE.txt": "/static/js/2.cdd656a1.chunk.js.LICENSE.txt",
+    "static/media/description.3a054548.png": "/static/media/description.3a054548.png",
+    "static/media/doctor.b0663a6f.png": "/static/media/doctor.b0663a6f.png",
+    "static/media/logo.d5303793.png": "/static/media/logo.d5303793.png",
+    "static/media/logosAfyados.9eb79e98.png": "/static/media/logosAfyados.9eb79e98.png",
+    "static/media/med-record.c620f290.png": "/static/media/med-record.c620f290.png",
+    "static/media/specialist.71e288bc.png": "/static/media/specialist.71e288bc.png",
+    "static/media/user.a6fa230f.png": "/static/media/user.a6fa230f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3244a005.js",
+    "static/css/2.c7c62aa4.chunk.css",
+    "static/js/2.cdd656a1.chunk.js",
+    "static/js/main.6a81ab52.chunk.js"
+  ]
+}
