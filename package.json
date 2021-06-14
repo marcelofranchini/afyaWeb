@@ -1,6 +1,9 @@
 {
   "name": "i-manager-med",
   "version": "0.1.0",
+   "engines": {
+    "node": "14.16.0"
+  },
   "private": true,
   "dependencies": {
     "@fluentui/example-data": "^8.2.3",
